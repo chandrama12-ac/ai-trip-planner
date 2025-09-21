@@ -1,0 +1,6 @@
+streamlit
+requests
+google-cloud-aiplatform
+langchain
+langchain_google_vertexai
+weasyprint
